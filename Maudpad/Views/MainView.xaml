@@ -32,7 +32,7 @@
         <avalonedit:TextEditor DockPanel.Dock="Bottom"
                                ShowLineNumbers="True"
                                FontSize="{Binding EditorFontSize}"
-                               SyntaxHighlighting="XML"
+                               SyntaxHighlighting="C#"
                                WordWrap="False"
                                Document="{Binding TextContent}"
                                PreviewMouseWheel="TextEditor_PreviewMouseWheel">

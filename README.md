@@ -1,2 +1,2 @@
 # maudpad
-A lightweight enhanced edition of Windows' notepad
+![Screenshot](https://i.imgur.com/25U0QEY.png)
